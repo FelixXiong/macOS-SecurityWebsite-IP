@@ -6,9 +6,13 @@
 
 ### API接口/域名
 
+https://58.220.1.99 发送图片接口
+
+https://58.223.167.1 登录访问
+
 https://58.215.157.277 链接：passport.feishu.com
 
-https://218.92.132.249 链接：passport.feishu.com
+https://122.125.67.228 登录访问
 
-https://58.220.1.99 发送图片接口
+https://218.92.132.249 链接：passport.feishu.com
 
